@@ -8,4 +8,5 @@ Feature: verifying the Omrbranch login page
 Examples:
     |userName|password|
     |Kirthigavengadesan@gmail.com|Kiru@1999|
+    |Kiru@gmail.com|kiru@2004|
    
